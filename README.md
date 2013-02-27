@@ -1,4 +1,21 @@
-noSkype
+noSkype jQuery Plugin
 =======
 
 Basic plugin to stop skype rebuilding your links and adding awful styling!
+
+Currently the plugin only works with phone numbers that contain spaces. Feel free to fork and expand!
+
+
+Usage
+=======
+```javascript
+$(function(){
+    $('.noSkypeClass').noskype();
+});
+```
+
+This will prevent skype hijacking your links
+
+Demo
+======
+demo.html is included with a demonstration
