@@ -10,7 +10,7 @@ Usage
 =======
 ```javascript
 $(function(){
-    $('.noSkypeClass').noskype();
+    $('.noSkypeClass').noSkype();
 });
 ```
 
